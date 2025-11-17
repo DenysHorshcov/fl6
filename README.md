@@ -15,6 +15,6 @@
    ```bat
    count_ref_lambdas.exe path\to\file.cpp -std=c++17
 
-## Варіант 1: через run_checker.bat
+## Варіант 2: через run_checker.bat
 Перетягнути потрібний *.cpp-файл мишкою на run_checker.bat.
 У вікні консолі з’явиться результат
